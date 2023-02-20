@@ -12,7 +12,6 @@ h1,p{
   text-align: center;
   margin-top: 10px;
   margin-bottom: 0px;
-  
 }
 
 h1{
@@ -40,8 +39,7 @@ label {
   color: #ffffff;
   width: 500px;
   padding: 12px;
-  margin-bottom: 1.5em
-  
+  margin-bottom: 1.5em 
 }
 
 input[type="submit"] {
